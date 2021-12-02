@@ -6,10 +6,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
-import contextlib
 from selenium.common.exceptions import TimeoutException
 import selenium.webdriver.support.ui as ui
-from bs4 import BeautifulSoup
 import requests
 import re
 import pymongo
