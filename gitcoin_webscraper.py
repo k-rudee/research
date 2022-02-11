@@ -31,7 +31,7 @@ driver.get("https://gitcoin.co/grants/explorer/?page=1&limit=6&me=false&sort_opt
 time.sleep(3)
 
 #pymongo setup
-cluster = "mongodb+srv://k_rudee:DTz6kJufv7cnYW9@cluster0.celrr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+cluster = "mongodb+srv://k_rudee:D@cluster0.celrr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 client = MongoClient(cluster)
 #print(client.list_database_names())
 db = client.grants
