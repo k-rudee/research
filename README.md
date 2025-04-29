@@ -31,10 +31,11 @@ Stay tuned as I develop applications focusing on:
 - Connecting people with resources they need
 
 ## 📈 Growth Path
-
+```
 function buildSolution(problem) {
   const understanding = deeplyUnderstandProblem(problem);
   const aiCapabilities = identifyRelevantAITools();
   return createSolution(understanding, aiCapabilities);
 }
-This space will evolve as I create and launch real solutions. The journey of building is just beginning!
+```
+*This space will evolve as I create and launch real solutions. The journey of building is just beginning!*
